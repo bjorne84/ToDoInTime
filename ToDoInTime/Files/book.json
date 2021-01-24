@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 0,
+    "Task": "Städa bilen",
+    "Description": "Dammsuga, tvätta lister.",
+    "Exp_hour": 0,
+    "Exp_min": 25,
+    "Hour_act": 0,
+    "Min_act": 0,
+    "Sec_act": 4
+  }
+]
